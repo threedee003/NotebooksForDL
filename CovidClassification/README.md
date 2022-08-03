@@ -18,5 +18,5 @@ Following were the objectives of this research :
 
 If you find it useful please cite us : 
 ```
-\cite{@INPROCEEDINGS{9614719,  author={Dhar, Tribikram and Adhikari, Gourab and Chaudhuri, Sheli Sinha},  booktitle={2021 5th International Conference on Electronics, Materials Engineering & Nano-Technology (IEMENTech)},   title={An Improved Classification of Chest X-ray Images Using Adaptive Activation Function},   year={2021},  volume={},  number={},  pages={1-6},  doi={10.1109/IEMENTech53263.2021.9614719}}}
+@INPROCEEDINGS{9614719,  author={Dhar, Tribikram and Adhikari, Gourab and Chaudhuri, Sheli Sinha},  booktitle={2021 5th International Conference on Electronics, Materials Engineering & Nano-Technology (IEMENTech)},   title={An Improved Classification of Chest X-ray Images Using Adaptive Activation Function},   year={2021},  volume={},  number={},  pages={1-6},  doi={10.1109/IEMENTech53263.2021.9614719}}
 ```
