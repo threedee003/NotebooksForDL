@@ -13,4 +13,4 @@ Following were the objectives of this research :
 *The CNNs were coded using [Pytorch](https://pytorch.org/) and were trained on NVIDIA's [GeForce GTX](https://www.nvidia.com/en-in/geforce/graphics-cards/16-series/) series.*
 
 If you find it useful you can do cite it
-\cite(@INPROCEEDINGS{9614719,  author={Dhar, Tribikram and Adhikari, Gourab and Chaudhuri, Sheli Sinha},  booktitle={2021 5th International Conference on Electronics, Materials Engineering & Nano-Technology (IEMENTech)},   title={An Improved Classification of Chest X-ray Images Using Adaptive Activation Function},   year={2021},  volume={},  number={},  pages={1-6},  doi={10.1109/IEMENTech53263.2021.9614719}})
+\cite{@INPROCEEDINGS{9614719,  author={Dhar, Tribikram and Adhikari, Gourab and Chaudhuri, Sheli Sinha},  booktitle={2021 5th International Conference on Electronics, Materials Engineering & Nano-Technology (IEMENTech)},   title={An Improved Classification of Chest X-ray Images Using Adaptive Activation Function},   year={2021},  volume={},  number={},  pages={1-6},  doi={10.1109/IEMENTech53263.2021.9614719}}}
