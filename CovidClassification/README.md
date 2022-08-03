@@ -4,8 +4,8 @@
 
 Following were the objectives of this research : 
 
-*To explore the possibilties of optimising chest X ray classification using Convolutional Neural Networks (CNN).
-*Reduction of number of parameters of the CNN.
-*Effective use of parametric activation functions.
+* To explore the possibilties of optimising chest X ray classification using Convolutional Neural Networks (CNN).
+* Reduction of number of parameters of the CNN.
+* Effective use of parametric activation functions.
 
 
