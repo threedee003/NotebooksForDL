@@ -13,6 +13,11 @@ Following were the objectives of this research :
 *The CNNs were coded using [Pytorch](https://pytorch.org/) and were trained on NVIDIA's [GeForce GTX](https://www.nvidia.com/en-in/geforce/graphics-cards/16-series/) series.*
 
 
+
+
+![The optimised CNN](https://github.com/threedee003/NotebooksForDL/tree/main/CovidClassification/slides/new2.png)
+
+
 #### Citation
 
 
