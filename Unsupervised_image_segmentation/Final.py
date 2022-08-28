@@ -281,15 +281,5 @@ def master(img,R,K,bit,epochs,epsilon):
 
 
 """
-
-https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8859
-
-https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6245518
-
-
-
-
-"""
-
-"""
 Time complexity : O(n*c*h)
+"""
