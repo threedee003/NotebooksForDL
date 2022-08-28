@@ -3,7 +3,7 @@
 *This project was made by Tribikram Dhar, Dept of Electrical Engg, Jadavpur University.*
 
 
-* The algorithm takes an input (N x C x H) and generates an single chanelled segmented mask of the image in O(NHC) time.
+* The algorithm takes an input (N x C x H) and generates an single channelled segmented mask of the image in O(NHC) time.
 * The distance function is customizable, so are the number of epochs, error threshold.
 
 #### Original Image
