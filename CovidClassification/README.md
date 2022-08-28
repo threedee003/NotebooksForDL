@@ -15,7 +15,7 @@ Following were the objectives of this research :
 
 
 
-![The optimised CNN](https://github.com/threedee003/NotebooksForDL/tree/main/CovidClassification/slides/new2.png)
+![The optimised CNN](./slides/new2.png)
 
 
 #### Citation
