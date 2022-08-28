@@ -1,9 +1,8 @@
 ## Unsupervised Image Segmentation for N channelled images.
 
-*This is my personal project*
+*An unsupervised method of segmentation of N-chanelled image. The algorithm takes an input (N x C x H) and generates an single chanelled segmented mask of the image in O(NHC) time.*
 
-
-
+* The algorithm takes an input (N x C x H) and generates an single chanelled segmented mask of the image in O(NHC) time.
 
 
 | Number of epochs |                                 Segmented Image                                                |
