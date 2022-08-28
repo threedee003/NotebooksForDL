@@ -21,9 +21,9 @@
 #### other sample of a [Mars Rover Image](https://www.kaggle.com/datasets/brsdincer/mars-surface-and-curiosity-image-set-nasa)
 
 
-| Input                     |                 Output                                                           |
-| ------------------------- | -------------------------------------------------------------------------------- |
-| ![](./images/marsI.jpeg)  |      ![](./images/marsO.jpeg)                                                    |
+| Input                                |                 Output                                                           |
+| ------------------------------------ | -------------------------------------------------------------------------------- |
+| ![](./images/marsI.jpeg)             |      ![](./images/marsO.jpeg)                                                    |
 
 
 
