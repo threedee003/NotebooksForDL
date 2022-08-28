@@ -1,8 +1,14 @@
 ## Unsupervised Image Segmentation for N channelled images.
 
-*An unsupervised method of segmentation of N-chanelled image. The algorithm takes an input (N x C x H) and generates an single chanelled segmented mask of the image in O(NHC) time.*
+*This project was made by Tribikram Dhar, Dept of Electrical Engg, Jadavpur University.*
+
 
 * The algorithm takes an input (N x C x H) and generates an single chanelled segmented mask of the image in O(NHC) time.
+* The distance function is customizable, so are the number of epochs, error threshold.
+
+#### Original Image
+
+![A sample image of an airport](./images/airport.jpeg)
 
 
 | Number of epochs |                                 Segmented Image                                                |
@@ -13,7 +19,7 @@
 | Epochs = 25      |   ![](./images/1_t_25eps.png)                                                                  |
 
 
-
+*the documentation is under development*
 
 
   
