@@ -18,6 +18,13 @@
 | Epochs = 15      |   ![](./images/1_t_15eps.png)                                                                  |
 | Epochs = 25      |   ![](./images/1_t_25eps.png)                                                                  |
 
+#### other sample of a (Mars Rover Image)[https://www.kaggle.com/datasets/brsdincer/mars-surface-and-curiosity-image-set-nasa]
+
+
+| Input               |                 Output                                                                 |
+| ![](./images/marsI.jpeg)  |      ![](./images/marsO.jpeg)                                                    |
+
+
 
 *the documentation is under development*
 
