@@ -13,7 +13,7 @@ from spectral import spy_colors
 
 """
 Author : T. Dhar
-Date : 18.01.2022
+Date : 18.07.2022
 Objective : Unsupervised K-Means clustering for Image Segmentation
 
 """
