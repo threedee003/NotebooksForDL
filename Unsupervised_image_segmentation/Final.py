@@ -268,11 +268,19 @@ def learner(mask,img,initial_centers,epochs,epsilon):
 
 
 
-def master(img,R,K,bit,epochs,epsilon):
+def master(img_file_path,R,K,bit,epochs,epsilon):
+    img = io.imread(image_file_path)  
     X,Y,Z = bin_generator(img,R,bit)
     mean_ = centroid_generator(img,Z,X,Y,K)
     mask_ = mask_gen(img,mean_)
     imp_msk, imp_cent = learner(mask_,img,mean_,epochs,epsilon)
+
+
+"""
+call :
+      master(".\images\a1.png",5,4,8,20,0.001)
+      
+"""
     
 
 
