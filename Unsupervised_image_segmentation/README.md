@@ -4,7 +4,7 @@
 
 
 * The algorithm takes an input (N x C x H) and generates an single channelled segmented mask of the image in O(NHC) time.
-* The distance function is customizable, so are the number of epochs, error threshold.
+* The distance function is customizable, so are the number of epochs for training, error threshold.
 * This algorithm enables the user to segment images of 8,16,32 bit and so on.
 
 #### Original Image
