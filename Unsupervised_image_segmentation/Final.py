@@ -27,7 +27,6 @@ img = io.imread(image_file_path)
 
 
 
-
 """
 
 The count_pixel and merge_pix are the helper functions for the bin_generator function so they have to executed before 
